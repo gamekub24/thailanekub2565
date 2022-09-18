@@ -1,0 +1,15 @@
+{
+  "name": "thailanekub2565",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "ฉันมาที่นี้",
+  "keywords": [
+    "รออยู่",
+    "ต่องน้"
+  ],
+  "repository": "https://github.com/atom/thailanekub2565",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
